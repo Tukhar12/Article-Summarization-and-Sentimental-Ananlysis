@@ -1,14 +1,11 @@
-# News-Article-Summarization
-News Summarization & Sentiment Analysis Tool
-This is a Tkinter-based desktop application that allows users to quickly summarize news articles and perform sentiment analysis using NLTK and TextBlob.
+Text Summarization & Sentiment Tool
+A Python-based tool that summarizes any article and performs sentiment analysis using NLTK and TextBlob. The application features a Tkinter GUI for easy user interaction.
 
-✨ Features
-✅ Summarization – Extracts key sentences from the article using word frequency analysis.
-✅ Sentiment Analysis – Determines the overall sentiment (Positive, Negative, Neutral) using TextBlob.
-✅ User-Friendly Interface – Simple UI built with Tkinter for easy text input and results display.
-✅ Stopword Removal & Preprocessing – Improves accuracy by filtering out common words.
+Features:
+✔ Summarizes long articles efficiently
+✔ Extracts key information using NLP techniques
+✔ Performs sentiment analysis (Positive, Neutral, Negative)
+✔ User-friendly interface with Tkinter
 
-📌 Technologies Used
-🔹 Python (Tkinter for UI)
-🔹 NLTK (Tokenization, Stopwords, Frequency Distribution)
-🔹 TextBlob (Sentiment Analysis)
+Tech Stack:
+🔹 Python | Tkinter | NLTK | TextBlob | Heapq
