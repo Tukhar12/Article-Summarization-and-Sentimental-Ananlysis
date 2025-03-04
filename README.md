@@ -1,13 +1,11 @@
-#Text Summarization & Sentiment Tool
+Article Summarizer & Sentiment Analyzer
+A Python-based Article Summarizer & Sentiment Analyzer that processes any text to generate concise summaries and analyze sentiment. Built with NLTK, TextBlob, and Tkinter, this tool makes text analysis simple and efficient.
 
+Features 🚀
+✅ Summarizes long articles into key points
+✅ Extracts important keywords using NLP techniques
+✅ Performs sentiment analysis (Positive, Neutral, Negative)
+✅ Easy-to-use GUI built with Tkinter
 
-A Python-based tool that summarizes any article and performs sentiment analysis using NLTK and TextBlob. The application features a Tkinter GUI for easy user interaction.
-
-Features:
-✔ Summarizes long articles efficiently
-✔ Extracts key information using NLP techniques
-✔ Performs sentiment analysis (Positive, Neutral, Negative)
-✔ User-friendly interface with Tkinter
-
-Tech Stack:
+Tech Stack 🛠
 🔹 Python | Tkinter | NLTK | TextBlob | Heapq
