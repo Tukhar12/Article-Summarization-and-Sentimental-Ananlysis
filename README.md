@@ -1,4 +1,4 @@
-Text Summarization & Sentiment Tool
+#Text Summarization & Sentiment Tool
 A Python-based tool that summarizes any article and performs sentiment analysis using NLTK and TextBlob. The application features a Tkinter GUI for easy user interaction.
 
 Features:
